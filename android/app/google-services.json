@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576896359754",
+    "firebase_url": "https://presentsir-3650d.firebaseio.com",
+    "project_id": "presentsir-3650d",
+    "storage_bucket": "presentsir-3650d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576896359754:android:88932bfae8f1bbe10ef5b3",
+        "android_client_info": {
+          "package_name": "com.example.presentsir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576896359754-pieidttkcksm20gv9oa0omcca2v872hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8NguR7mLd82EoLRNwpGH-LvRpZIdsow4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576896359754-pieidttkcksm20gv9oa0omcca2v872hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
